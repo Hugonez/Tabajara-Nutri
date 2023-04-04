@@ -8,7 +8,7 @@
 
 This project is just a mockup of Nutrition clinic that i made as a school project.    
 I implemented a:   
-* :closed_lock_with_key:Login System;   
-* :lock:Password encryption system;  
-* :white_check_mark:Simple validation for email and pacient code (just checks if it is allready registered);
-* :page_facing_up:Save all user imput into a .txt file;
+* :closed_lock_with_key:Login System     
+* :lock:Password encryption system  
+* :white_check_mark:Simple validation for email and pacient code (just checks if it is allready registered)  
+* :page_facing_up:Save all user imput into a .txt file  
