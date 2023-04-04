@@ -140,7 +140,7 @@ public class editDelete extends JFrame {
 		btnSalvar.setBounds(102, 168, 89, 23);
 		add(btnSalvar);
 
-		JButton btnLimpar = new JButton("Limpar");
+		JButton btnLimpar = new JButton("Deletar");
 		btnLimpar.addMouseListener(new MouseAdapter() {
 			public void mousePressed(MouseEvent e) {
 				
