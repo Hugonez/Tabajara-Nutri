@@ -1,14 +1,14 @@
-# First-Java-Project
-My first project built in java using Java swing / Window Builder
-Language = Portuguese
+# Tabajara Nutri
+ My first project built in java using Java swing / Window Builder    
+ **Language** = Portuguese :brazil:
 
-User = Tabajara
-Password = SenhaFoda6969
+:bust_in_silhouette:**User** = Tabajara    
+:key:**Password** = SenhaFoda6969
 
 
-This project is just a mockup of Nutrition clinic that i made as a school project.
-I implemented a: 
-Login System; 
-Password encryption system;
-Simple validation for email and pacient code (just checks if it is allready registered);
-Save all user imput into a .txt file;
+This project is just a mockup of Nutrition clinic that i made as a school project.    
+I implemented a:   
+* :closed_lock_with_key:Login System;   
+* :lock:Password encryption system;  
+* :white_check_mark:Simple validation for email and pacient code (just checks if it is allready registered);
+* :page_facing_up:Save all user imput into a .txt file;
