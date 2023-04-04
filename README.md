@@ -14,5 +14,5 @@ I implemented a:
 * :page_facing_up:Save all user imput into a .txt file  
 
 
-**Quick notes:**
+**Quick notes:**    
 i know there is a lot to improve in this, but as my first experience with java swing and window builder, i'm really proud on where i could get to.
